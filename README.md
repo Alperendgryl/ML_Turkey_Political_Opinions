@@ -21,6 +21,8 @@ The questions are:
 - 9- Do You Think That the Extraordinary State (OHAL) Restricts Freedoms?
 - 10- Do You Support a New Party in the Parliament?
 
+Metrics, scores and graphs: 
+
 - There are several plot graphs about distribution for the samples (Sex, age, education level, party distribution by age, party distribution by education level etc.)
 
 - Also a heatmap created to see the correlation between attributes
